@@ -1,0 +1,6 @@
+{
+  "name": "GardaKunci",
+  "description": "Aplikasi kunci aplikasi Android dengan proteksi sidik jari biometrik dan sandi pola terenkripsi SHA-256.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
